@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"dkb/service"
+	"github.com/davidkbainbridge/gokit_example/service"
 )
 
 func main() {
